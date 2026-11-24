@@ -3,7 +3,7 @@
 # Astral Chain Combat Rumble ·《异界锁链》战斗震动
 
 
-本模组为[《异界锁链》PC 重编译版](https://github.com/captainj-sparrow/astral-chain-pc-recomp)补充战斗震动，保留游戏原有的震动。反馈对齐武器和雷基恩的出招动作：即使挥空也能感到挥击，但震动不代表命中或暴击。
+本模组为[《异界锁链》PC 重编译版](https://github.com/captainj-sparrow/astral-chain-pc-recomp)补充战斗震动，保留游戏原有的震动。反馈对齐武器和雷基恩的出招动作：即使挥空也能感到挥击
 
 ### 已在 Steam Deck 实测
 
@@ -22,7 +22,7 @@
 
 **卸载：** 退出游戏，将 `CombatRumble-Complete` 移出 `mods` 后重启即可。
 
-This mod adds combat rumble to the [Astral Chain PC recompilation](https://github.com/captainj-sparrow/astral-chain-pc-recomp) while keeping the game’s original rumble. Feedback follows weapon and Legion attacks, so you can feel a swing even when it misses. A pulse does not indicate a hit or a critical.
+This mod adds combat rumble to the [Astral Chain PC recompilation](https://github.com/captainj-sparrow/astral-chain-pc-recomp) while keeping the game’s original rumble. Feedback follows weapon and Legion attacks, so you can feel a swing even when it misses.
 
 ### Verified on Steam Deck
 
